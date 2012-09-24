@@ -2,7 +2,7 @@
 
 ## Running *
 
-When this book talks about "simply running the script..." you are expected to know what to do based on the context of the example.  All of this is covered variously in the first chapters, but in case you aren't clear, here is a quick recap on what you need to know.
+When this book talks about "simply running the script..." you are expected to know what to do based on the context of the example.  All of this is covered variously in the first chapters, but in case you aren't clear, here is what you need to know.
   
 When this book talks about running scripts, it is talking about using either R or Ruby and the corresponding shell (CLI).  It should be clear what to use based on the type of file you are trying to run, check the extension if you still need a clue:
 * .rb is ruby
@@ -36,9 +36,8 @@ Checkout "Using R" and "The R Console" in Chapter 2, but here's a recap.
 
 ### Disclaimer: Just because you can, doesn't mean you should...
 
-Okay, so chances are you are reading this book to learn.  Running scripts right off the bat is not likely to be the best way to learn AND understand what you are doing.  For example, you might not have seen the R application whine when you used <pre>mean(data)</pre> like in the book example, where it has been deprecated and the code samples reflect the updated <pre>colMeans(data)</pre> usage.
+Okay, so chances are you are reading this book to learn.  Running scripts right off the bat is not likely to be the best way to learn AND understand what you are doing.  For example, you might not have seen the R application whine when you used ```mean(data)``` like in the book example, where it has been deprecated and the code samples reflect the updated ```colMeans(data)``` usage.
 
 	
 ### Read on...
 
-This just scratches the surface, but should work as a quick reminder of what you are doing as you work through the examples in the book.
